@@ -1,3 +1,4 @@
+![Avatar](avatar.jpg)
 # Meu Currículo
 
 ## Dados Pessoais
